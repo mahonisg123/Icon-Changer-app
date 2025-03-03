@@ -3,3 +3,6 @@
 # Its free?
 Its free, no ads, no charge
 
+Icon:
+
+https://android.googlesource.com/platform/packages/apps/Settings/+/refs/tags/android-4.4.4_r2/res/mipmap-xxxhdpi/ic_launcher_settings.png[](url)

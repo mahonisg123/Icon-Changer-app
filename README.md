@@ -1,1 +1,1 @@
-# Icon Changer app
+# Icon Changer
